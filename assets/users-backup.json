@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "type": "admin",
+        "username": "admin",
+        "password": "sha1$e1949a66$1$d19ff05deac906b0b751b516214f9d806f9e8e73"
+    },
+    {
+        "id": 2,
+        "type": "user",
+        "username": "Nathan",
+        "password": "sha1$b94e44c5$1$ef73f9a16f902e55f29a01c8ccc37910ac459773"
+    }
+]

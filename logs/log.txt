@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 9/23/2020
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"Cannot read property 'myFile' of null","error":{"code":"INTERNAL_SERVER_ERROR","message":"Cannot read property 'myFile' of null"},"requestInfo":{"hostname":"localhost","path":"/api/single-file"}}
+********************************************************************************
